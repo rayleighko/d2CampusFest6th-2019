@@ -329,7 +329,11 @@ class App extends React.Component<IProps, IState> {
         <StyledLayoutSider width={400}>
           <h2>D2 Campus Fest 6th Finalist</h2>
           <p>
-            <b style={{ fontSize: 13 }}>since 2019 01 18, Exclude some repositories.</b>
+            <b style={{ fontSize: 13 }}>
+              Started since 2019-01-18. Projects with mismatched addresses are excluded.
+              <br />
+              This record may not be completely objective due to past commit messages.
+            </b>
           </p>
           <Divider />
           <p>
