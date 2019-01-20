@@ -1,206 +1,166 @@
 {
   "project": [{
-      "projectId": "ankus",
-      "projectName": "ankus",
-      "description": "ankus - Lite for web data analysis",
+      "projectId": "aws-interface",
+      "projectName": "Aws interface",
+      "description": "클라우드 서비스 추상화 인터페이스 제공",
       "mentor": [{
-        "name": "장동훈",
-        "profileUrl": "https://github.com/onycom-ankus"
+        "name": "hubaimaster",
+        "profileUrl": "https://github.com/hubaimaster"
       }],
-      "Repository": ["https://github.com/onycom-ankus/contributhon2018"]
+      "Repository": ["https://github.com/hubaimaster/aws-interface"]
     },
     {
-      "projectId": "chromium",
-      "projectName": "Chromium / Blink",
-      "description": "Chromium / Blink 프로젝트 기여하기",
+      "projectId": "boggler",
+      "projectName": "Boggler",
+      "description": "Speech-to-Text 서비스를 이용해 사용자의 음성 데이터 혹은 파일에 대해 텍스트 데이터를 제공",
       "mentor": [{
-        "name": "",
-        "profileUrl": ""
+        "name": "Bogglian",
+        "profileUrl": "https://github.com/Bogglian"
       }],
-      "Repository": []
+      "Repository": ["https://github.com/Bogglian/boggler"]
     },
     {
-      "projectId": "keras",
-      "projectName": "Keras(+Tensorflow) Korean Documentation",
-      "description": "영어로 작성된 멋진 케라스 튜토리얼을 한글화하여 케라스가 널리&쉽게 사용되도록 기여합니다",
+      "projectId": "chain",
+      "projectName": "Chain",
+      "description": "확률론적 딥러닝",
       "mentor": [{
-          "name": "김태영",
-          "profileUrl": "https://github.com/tykimos"
-        },
-        {
-          "name": "전미정",
-          "profileUrl": "https://github.com/MijeongJeon"
+          "name": "TenKeyLess",
+          "profileUrl": "https://github.com/tenkeyless"
         }
       ],
-      "Repository": ["https://github.com/KerasKorea/KEKOxTutorial"]
+      "Repository": ["https://github.com/tenkeyless/chain/"]
     },
     {
-      "projectId": "cubrid",
-      "projectName": "CMS with CUBRID DBMS",
-      "description": "CUBRID DBMS를 적용한 CMS(Content Management System)",
+      "projectId": "educhain",
+      "projectName": "Educhain",
+      "description": "교육용 블록체인",
       "mentor": [{
-        "name": "",
-        "profileUrl": ""
+        "name": "twodude",
+        "profileUrl": "https://github.com/twodude"
       }],
-      "Repository": ["https://github.com/cubrid-cms"]
+      "Repository": ["https://github.com/twodude/educhain"]
     },
     {
-      "projectId": "gitshare",
-      "projectName": "GitShare",
-      "description": "Share your code beautifully. Anywhere. - gitCodeShare.com",
+      "projectId": "iOS-Projects-with-ML-Models",
+      "projectName": "IOS projects with ML models",
+      "description": "iOS에서 머신러닝 앱 배포-Core ML, ML Kit 사용 및 구조화)",
       "mentor": [{
-          "name": "김동우",
-          "profileUrl": "https://github.com/gimdongwoo"
-        },
-        {
-          "name": "장기영",
-          "profileUrl": "https://github.com/thomasJang"
+          "name": "motlabs",
+          "profileUrl": "https://github.com/motlabs"
         }
       ],
-      "Repository": ["https://github.com/kosslab-kr/gitCodeShare.com", "https://github.com/kosslab-kr/kosscontributhon2018"]
+      "Repository": ["https://github.com/motlabs/iOS-Projects-with-ML-Models"]
     },
     {
-      "projectId": "guider",
-      "projectName": "Guider",
-      "description": "a system-wide performance analyzer",
+      "projectId": "mlfe",
+      "projectName": "Mlfe",
+      "description": "C++ 기반의 딥러닝 라이브러리",
       "mentor": [{
-        "name": "이평화",
-        "profileUrl": "https://github.com/iipeace"
+        "name": "shi510",
+        "profileUrl": "https://github.com/shi510"
       }],
-      "Repository": ["https://github.com/kosslab-kr/guider"]
+      "Repository": ["https://github.com/shi510/mlfe"]
     },
     {
-      "projectId": "it_chain",
-      "projectName": "it-chain",
-      "description": "Lightweight & Customizable Private Block Chain",
+      "projectId": "MPSec",
+      "projectName": "MPSec",
+      "description": "MPTCP를 활용하여 네트워크 장애 상황에 효과적으로 대처가 가능한 고신뢰 네트워킹을 제공",
       "mentor": [{
-        "name": "이준범",
-        "profileUrl": "https://github.com/junbeomlee"
-      }, {
-        "name": "안휘",
-        "profileUrl": "https://github.com/byron1st"
+        "name": "MPSec",
+        "profileUrl": "https://github.com/MPSec"
       }],
-      "Repository": ["https://github.com/it-chain"]
+      "Repository": ["https://github.com/MPSec"]
     },
     {
-      "projectId": "netfilter",
-      "projectName": "Netfilter",
-      "description": "Netfilter 프로젝트 기여하기",
+      "projectId": "soma",
+      "projectName": "Soma",
+      "description": "보안 및 해킹 문제 관리도구",
       "mentor": [{
-        "name": "",
-        "profileUrl": ""
+        "name": "PLUS",
+        "profileUrl": "https://github.com/PLUS-POSTECH"
       }],
-      "Repository": []
+      "Repository": ["https://github.com/PLUS-POSTECH/soma"]
     },
     {
-      "projectId": "openstack",
-      "projectName": "OpenStack",
-      "description": "OpenStack 컨트리뷰션 - 방대한 프로젝트 저장소들을 위한 국제화, 문서화 지원 및 도구 기여",
+      "projectId": "vinbero",
+      "projectName": "Vinbero",
+      "description": "모듈형 서버",
       "mentor": [{
-        "name": "최영락",
-        "profileUrl": "https://github.com/ianychoi"
-      }, {
-        "name": "신호철",
-        "profileUrl": "https://github.com/Shinhocheol"
-      }, {
-        "name": "조성수",
-        "profileUrl": "https://github.com/ppiyakk2"
-      }, {
-        "name": "장태희",
-        "profileUrl": "https://github.com/janghe11"
-      }, {
-        "name": "공용준",
-        "profileUrl": "https://github.com/sstrato"
-      }, {
-        "name": "강성진",
-        "profileUrl": "https://github.com/ujuc"
+        "name": "vinbero",
+        "profileUrl": "https://github.com/vinbero"
       }],
-      "Repository": ["https://github.com/openstack-kr/contributhon-2018-team1", "https://github.com/openstack-kr/contributhon-2018-team2", "https://github.com/kosslab-kr/openstack-controller"]
+      "Repository": ["https://github.com/vinbero"]
     },
     {
-      "projectId": "presto_music",
-      "projectName": "Presto Music",
-      "description": "웹 기술로 네이티브 뮤직 플레이어를 개발합니다.",
+      "projectId": "2019-6thD2CF-Image-Cluster",
+      "projectName": "2019 6thD2CF Image Cluster",
+      "description": "지정주제 : 이미지 유사도 측정하기",
       "mentor": [{
-        "name": "소현섭",
-        "profileUrl": "https://github.com/iodes"
+        "name": "sunnys-lab",
+        "profileUrl": "https://github.com/sunnys-lab"
       }],
-      "Repository": ["https://github.com/kosslab-kr/Presto.Contributhon"]
+      "Repository": ["https://github.com/sunnys-lab/2019-6thD2CF-Image-Cluster"]
     },
     {
-      "projectId": "tizen_xamarin",
-      "projectName": "Tizen C#/Xamarin Sample App",
-      "description": "C#/Xamarin을 활용한 Tizen Sample App 개발",
+      "projectId": "image_clustering",
+      "projectName": "Image clustering",
+      "description": "지정주제 : 이미지 유사도 측정하기",
       "mentor": [{
-        "name": "손기성",
-        "profileUrl": ""
+        "name": "geonlee0325",
+        "profileUrl": "https://github.com/geonlee0325"
       }],
-      "Repository": ["https://github.com/kosslab-kr/Tizen-CSharp-Projects"]
+      "Repository": ["https://github.com/geonlee0325/image_clustering"]
     },
     {
-      "projectId": "tizen_nnapi",
-      "projectName": "Tizen NN API and Runtime",
-      "description": "Tizen Platform을 활용한 On-Device AI 제품 개발",
+      "projectId": "SimilarPictures",
+      "projectName": "Similar Pictures",
+      "description": "지정주제 : 이미지 유사도 측정하기",
       "mentor": [{
-        "name": "손기성",
-        "profileUrl": ""
+        "name": "jaemin93",
+        "profileUrl": "https://github.com/jaemin93"
       }],
-      "Repository": ["https://github.com/kosslab-kr/Tizen-NN-Runtime"]
+      "Repository": ["https://github.com/jaemin93/SimilarPictures"]
     },
     {
-      "projectId": "uftrace",
-      "projectName": "uftrace",
-      "description": "uftrace 프로젝트 기여하기",
+      "projectId": "react-calenpicker",
+      "projectName": "React calenpicker",
+      "description": "지정주제 : React Calendar",
       "mentor": [{
-          "name": "송태웅",
-          "profileUrl": "https://github.com/taeung"
-        },
-        {
-          "name": "박한범",
-          "profileUrl": ""
-        },
-        {
-          "name": "김재중",
-          "profileUrl": ""
+          "name": "azxca1731",
+          "profileUrl": "https://github.com/azxca1731"
         }
       ],
-      "Repository": ["https://github.com/kosslab-kr/uftrace"]
+      "Repository": ["https://github.com/azxca1731/react-calenpicker"]
     },
     {
-      "projectId": "webos",
-      "projectName": "webOS OSE",
-      "description": "webOS Open Source Edition 프로젝트 기여하기",
+      "projectId": "react-datepicker",
+      "projectName": "React datepicker",
+      "description": "지정주제 : React Calendar",
       "mentor": [{
-        "name": "배창혁, 김민재, 강성재, 고석하",
-        "profileUrl": ""
+        "name": "y0c",
+        "profileUrl": "https://github.com/y0c"
       }],
-      "Repository": ["https://github.com/webosce"]
+      "Repository": ["https://github.com/y0c/react-datepicker"]
     },
     {
-      "projectId": "gureum",
-      "projectName": "구름입력기",
-      "description": "macOS를 위한 새로운 한글 입력기",
+      "projectId": "data_structure_JS",
+      "projectName": "data structure with the JS",
+      "description": "지정주제 : JS structures & visualization lib",
       "mentor": [{
-        "name": "정윤원",
-        "profileUrl": ""
+        "name": "sangw0804",
+        "profileUrl": "https://github.com/sangw0804"
       }],
-      "Repository": ["https://github.com/gureum/gureum"]
+      "Repository": ["https://github.com/sangw0804/data_structure_JS"]
     },
     {
-      "projectId": "kaggle_kernel_ko",
-      "projectName": "캐글 커널 한글화",
-      "description": "캐글 속 커널 한글화 작업을 통한 데이터 사이언스 대중화",
+      "projectId": "DataStructure",
+      "projectName": "Data Structure",
+      "description": "지정주제 : JS structures & visualization lib",
       "mentor": [{
-        "name": "이유한",
-        "profileUrl": "https://github.com/qkqkfldis1"
-      }, {
-        "name": "강천성",
-        "profileUrl": "https://github.com/kcs93023"
-      }, {
-        "name": "김준태",
-        "profileUrl": "https://github.com/OPAYA"
+        "name": "hongjisung",
+        "profileUrl": "https://github.com/hongjisung"
       }],
-      "Repository": ["https://github.com/kosslab-kr/Kaggle_KR"]
+      "Repository": ["https://github.com/hongjisung/DataStructure"]
     }
   ]
 }
