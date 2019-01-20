@@ -15,6 +15,7 @@ type TProject = {
 
 export async function cacheAllPojectEvents() {
   const projects: TProject[] = contributonProjectJson.project;
+  console.log('projects: ' + JSON.stringify(projects));
   for (let i = 0; i < projects.length; i++) {
     const project = projects[i];
     console.log('cacheProjectEvent start : ', project.projectId);
