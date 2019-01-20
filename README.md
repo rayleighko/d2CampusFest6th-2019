@@ -1,159 +1,44 @@
-# 2018 공개SW Contributhon
-
-	참여·공유·개방·협업하는 공개SW 프로젝트 개발방법 체험과 
-	최고급 개발자 멘토로부터 개발 노하우를 경험할 수 있는
-	2018 공개SW Contributhon 개최!
-
-Contributhon?
-오픈소스 기여(Contribute)와 마라톤(Marathon)의 합성어로, 일정기간 내에 오픈소스 프로젝트를 선택하여
-하나 이상의 <br>컨트리뷰션(Contribution)을 하는 프로그램 
-
-### 행사 일정
-* 2018년 8월 16일(목) ~ 10월 31일(수)
-
-### 참가대상
-* SW개발과 공개SW에 관심이 있는 대학(원)생, 일반인 누구나
-* 공개SW 프로젝트에 직접 참여할 기회를 갖고 싶은 개발자
-
-### 주최 & 주관
-* 과학기술정보통신부 & 정보통신산업진흥원
-
-### 프로젝트 소개
-
-----------------------------------------------------------------------------------------------------
-* 프로젝트별 내용 작성법 예시 (2017년 최우수 프로젝트 - absolute / bacardi )
-  - [absolute & bacardi 활동 내용](https://github.com/kosslab-kr/kosscontributhon2017/blob/master/activities/absolute.md)
-  - [absolute Repository](https://github.com/lunchclass/absolute)
-  - [bacardi Repository](https://github.com/lunchclass/bacardi)
-----------------------------------------------------------------------------------------------------
-
-프로젝트1. ankus-Lite for web data analysis (멘토 장동훈 외)
-  - [활동 내용](https://....................................................)
-  - [Repository](https://....................................................)
-
-프로젝트2. Chromium / Blink (2개팀) (멘토 방진호, 고병권)
-  - [활동 내용](https://....................................................)
-  - [Repository](https://....................................................)
-
-프로젝트3. Contiribute to Keras(+Tensorflow) Documentation (멘토 김태영, 이상훈)
-  - [활동 내용](https://....................................................)
-  - [Repository](https://github.com/KerasKorea/KEKOxTutorial)
-
-프로젝트4. CUBRID DBMS를 적용한 CMS(Content Management System) (멘토 김병욱)
-  - [활동 내용](https://....................................................)
-  - [Repository](https://github.com/cubrid-cms)
-
-프로젝트5. GitShare (멘토 김동우, 장기영)
-  - [활동 내용](https://....................................................)
-  - [Repository](https://github.com/jsdevkr/gitCodeShare.com)
-
-프로젝트6. Guider (멘토 이평화)
-  - [활동 내용](https://....................................................)
-  - [Repository](https://github.com/iipeace/guider)
-
-프로젝트7. it-chain (멘토 이준번, 안휘)
-  - [활동 내용](https://....................................................)
-  - [Repository](https://github.com/it-chain/engine)
-
-프로젝트8. Netfilter (멘토 유태희)
-  - [활동 내용](https://....................................................)
-  - [Repository](https://....................................................)
-
-프로젝트9. OpenStack (2개팀) (멘토 최영락, 신호철, 조성수, 공용준)
-  - [활동 내용](https://....................................................)
-  - [Repository](https://....................................................)
-
-프로젝트10. Presto Music (멘토 소현섭)
-  - [활동 내용](https://....................................................)
-  - [Repository](https://github.com/kosslab-kr/Presto.Contributhon)
-
-프로젝트11. Tizen C#/Xamarin Sample App 개발 (멘토 손기성)
-  - [활동 내용](https://....................................................)
-  - [Repository](https://....................................................)
-
-프로젝트12. Tizen NN API & Runtime (멘토 손기성)
-  - [활동 내용](https://....................................................)
-  - [Repository](https://....................................................)
-  
-프로젝트13. uftrace (2개팀) (멘토 송태웅, 박한범, 김재중)
-  - [활동 내용](https://....................................................)
-  - [Repository](https://....................................................)
-  
-프로젝트14. webOS Open Source Edition (2개팀) (멘토 배창혁, 김민재, 강성재, 고석하)
-  - [활동 내용](https://....................................................)
-  - [Repository](http://github.com/webosce)
-
-프로젝트15. 구름입력기 (멘토 정윤원)
-  - [활동 내용](https://....................................................)
-  - [Repository](https://github.com/gureum/gureum/)
-  
-프로젝트16. 캐글 속 커널 한글화 작업을 통한 데이터 사이언스 대중화 (멘토 이유한, 강천성, 김준태)
-  - [활동 내용](https://....................................................)
-  - [Repository](https://github.com/kosslab-kr/Kaggle_KR)
-
-* 프로젝트에 대한 자세한 내용은 [홈페이지](https://contributhon.kr/project)에서 확인
 
 
-### 시상
+## 축하합니다! 제 6회 D2 CAMPUS FEST 결승진출팀 안내
 
-* 총 상금 1600만원
+프로젝트|설명|라이선스
+-|-|-
+[aws-interface](https://github.com/hubaimaster/aws-interface)|클라우드 서비스 추상화 인터페이스 제공|Apache-2.0|
+[boggler](https://github.com/rayleighChild/boggler)|Speech-to-Text 서비스를 이용해 사용자의 음성 데이터 혹은<br/> 파일에 대해 텍스트 데이터를 제공|MIT|
+[chain](https://github.com/tenkeyless/chain/)|확률론적 딥러닝|MIT
+[educhain](https://github.com/twodude/educhain)|교육용 블록체인|Apache-2.0|
+[iOS-Projects-with-ML-Models](https://github.com/motlabs/iOS-Proejcts-with-ML-Models)|iOS에서 머신러닝 앱 배포-Core ML, ML Kit 사용 및 구조화)|MIT|
+[mlfe](https://github.com/shi510/mlfe)|C++ 기반의 딥러닝 라이브러리|MIT|
+[MPSec](https://github.com/MPSec)|MPTCP를 활용하여 네트워크 장애 상황에 효과적으로<br/> 대처가 가능한 고신뢰 네트워킹을 제공|GPL-3.0|
+[soma](https://github.com/PLUS-POSTECH/soma)|보안 및 해킹 문제 관리도구|MIT/Apache-2.0|
+[vinbero](https://github.com/vinbero)|모듈형 서버|MPLv2|
+[2019-6thD2CF-Image-Cluster](https://github.com/sunnys-lab/2019-6thD2CF-Image-Cluster)|지정주제 : 이미지 유사도 측정하기|Apache-2.0|
+[image_clustering](https://github.com/geonlee0325/image_clustering)|지정주제 : 이미지 유사도 측정하기|Apache-2.0|
+[SimilarPictures](https://github.com/jaemin93/SimilarPictures)|지정주제 : 이미지 유사도 측정하기|Apache-2.0|
+[react-calenpicker](https://github.com/azxca1731/react-calenpicker)|지정주제 : React Calendar|MIT|
+[react-datepicker](https://github.com/y0c/react-datepicker)|지정주제 : React Calendar|MIT|
+[data_structure_JS](https://github.com/sangw0804/data_structure_JS)|지정주제 : JS structures & visualization lib|MIT|
+[DataStructure](https://github.com/hongjisung/DataStructure)|지정주제 : JS structures & visualization lib|MIT|
 
-### 일정 및 프로그램
 
 
-<table>
-    <thead>
-        <tr>
-            <th align="center">시간</th>
-            <th align="center">주요 내용</th>
-        </tr>
-    </thead>
-    <tbody>
-    <tr>
-      <td align="center">17:30-17:40</td>
-      <td align="center">개회 및 환영사  「정보통신산업진흥원 (미정)」</td>
-    </tr>
-    <tr>
-      <td align="center">17:40-18:00</td>
-      <td align="center">(기조연설3) Diversity & Inclusion <br> 「Apache Software Foundation Member 윤진석」 </td>
-    </tr>
-    <tr>
-      <td align="center">18:00-19:00</td>
-      <td align="center">컨트리뷰톤 참가자 저녁식사</td>
-    </tr>
-    <tr>
-      <td align="center">19:00-22:00</td>
-      <td align="center">프로젝트별 미팅</td>
-    </tr>
-</table>
+## 이후 일정 안내
+### 오리엔테이션
+>* 일시 : 1월 18일(금)
+>* 장소 : 정자동 NAVER 본사 그린팩토리<br/>
+* 상세내용은 전달드린 메일을 참고해주시기 바랍니다.
 
-### 팀별 활동 가이드라인
-* 프로젝트 리더 선출
-  - 참가자 중 멘토와 함께 프로젝트 진행에 도움을 줄 리더 선출(1명)
-* 활동내역 정리 제출
-  - 프로젝트 참가자들의 활동 내역을 정리
-  - 멘토는 프로젝트 진행 시 참가자들의 성과를 정리한 결과물을 특정 주기로 github 리파지토리에 업데이트
-* 오프라인 활동 진행
-  - 온라인 활동을 주로 하되, 오프라인 활동을 통한 멘토링 진행
-  - 오프라인 활동 시 사전 일정을 사무국으로 공유 (장소지원 및 일정 조정을 위한 공유 필요)
-* 멘토 회의 개최
-  - 프로젝트 별 진행상황 논의
-* 팀별 활동 마감
-  - 10월 31일(수) 오후 3시를 기준으로 프로젝트 활동 마감
-* 발표 및 심사 진행 (11월 진행 예정) (추후 공지)
-  - 소스나 산출물, 발표자료 등을 정리하여 사무국으로 제출
-  - SW주간 코엑스에서 발표 진행
-  - 프로젝트 리더(혹은 팀원) 프로젝트 결과 발표
+### 밋업
+>* 밋업 1 : 1월 23일 (수) 오후 2시-7시
+>* 밋업 2 : 1월 29일 (화) 오후 2시-7시
+>* 밋업 3 : 2월 13일 (수) 오후 2시-7시
+>* 밋업 4 : 2월 21일 (목) 오후 2시-7시<br/>
+>* 장소 : D2 Startup Factory, 강남역 메리츠타워 16층
 
-### Github 운영방안
-1. 16개 프로젝트를 github 페이지 (github.com/kosslab-kr)에 포크(Fork)하여 진행
-  *포크가 불가능한 프로젝트는 링크로 연결
-2. 실제 프로젝트 진행은 포크된 프로젝트 내에서 진행되며 정리된 결과물은 'kosscontributhon2018'에서 확인 가능
-3. 'kosscontributhon2018' Repository의 'Code'에는 컨트리뷰톤 소개, 진행일정, 프로젝트 소개, 프로젝트 별 중간보고서 등 행사전반에 대해 확인 가능
-4. 프로젝트별로 성과 정리 문서를 통해 참가자들의 프로젝트 개발 및 기여 현황을 확인할 수 있음
-5. 멘토가 작성하는 중간보고서에는 프로젝트 진행, 참가자 별 /풀리퀘스트 등의 참가자들의 활동 내역과 이슈, 오프라인 활동사진 등이 담김
 
-### 오프라인 활동 진행
-* 프로젝트를 리딩하는 멘토의 재량으로 오프라인 활동 진행
-* 멘토와 참가자 간의 일정을 조정하여, 오프라인 활동 장소 및 시간 결정
-* 오프라인 활동 참석이 불가능할 시, 화상채팅으로 참여하여 오프라인 활동 진행(단, 개막식과 시상식은 필수 참석)
+### 결승전
+>* 일시 : 2월 27일 (수)
+>* 장소 : 정자동 NAVER 본사 그린팩토리
+
+문의 : naver_d2@naver.com
