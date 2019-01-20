@@ -58,8 +58,8 @@ app.prepare().then(() => {
     databaseURI: PARSE_APP.databaseUri || 'mongodb://localhost:61804/heroku_xhdjjw49',
     cloud: PARSE_APP.cloudCodeMain || path.join(__dirname, '../cloud/main'),
     appId: PARSE_APP.appId || 'myAppId',
-    masterKey: PARSE_APP.masterKey || '', // Add your master key here. Keep it secret!
-    fileKey: PARSE_APP.fileKey || '', // Add the file key to provide access to files already hosted on Parse
+    masterKey: PARSE_APP.masterKey || 'myMasterKey', // Add your master key here. Keep it secret!
+    fileKey: PARSE_APP.fileKey || 'myFileKey', // Add the file key to provide access to files already hosted on Parse
     serverURL: PARSE_LOCALURL, // Don't forget to change to https if needed
     // liveQuery: {
     //   classNames: ["Posts", "Comments"] // List of classes to support for query subscriptions
