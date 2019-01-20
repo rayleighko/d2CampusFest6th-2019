@@ -55,7 +55,7 @@ app.prepare().then(() => {
 
   // parse server
   const api = new ParseServer({
-    databaseURI: PARSE_APP.databaseUri || 'mongodb://localhost:27017/dev',
+    databaseURI: PARSE_APP.databaseUri || 'mongodb://localhost:61804/heroku_xhdjjw49',
     cloud: PARSE_APP.cloudCodeMain || path.join(__dirname, '../cloud/main'),
     appId: PARSE_APP.appId || 'myAppId',
     masterKey: PARSE_APP.masterKey || '', // Add your master key here. Keep it secret!
