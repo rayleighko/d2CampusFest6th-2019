@@ -16,6 +16,7 @@ const S3Adapter = require('parse-server').S3Adapter;
 const ParseDashboard = require('parse-dashboard');
 
 console.log('PARSE CONFIG: ' + JSON.parse(process.env.PARSE_CONFIG.replace(/'/gi, '"')));
+console.log('PORT: ' + process.env.PORT);
 // config
 const PARSE_CONFIG = JSON.parse(process.env.PARSE_CONFIG.replace(/'/gi, '"'));
 const PARSE_APP = PARSE_CONFIG.apps[0];

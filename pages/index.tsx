@@ -327,7 +327,7 @@ class App extends React.Component<IProps, IState> {
           </StyledLayoutContent>
         </Layout>
         <StyledLayoutSider width={400}>
-          <h2>2018 OSS Contributon</h2>
+          <h2>D2 Campus Fest 6th Finalist</h2>
           <Divider />
           <p>
             <b style={{ fontSize: 16 }}>Recently Events</b>
