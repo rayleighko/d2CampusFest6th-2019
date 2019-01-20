@@ -17,7 +17,7 @@
         "name": "Bogglian",
         "profileUrl": "https://github.com/Bogglian"
       }],
-      "Repository": ["https://github.com/Bogglian/boggler"]
+      "Repository": ["https://github.com/Bogglian/boggler", "https://github.com/Bogglian/react-DeepSpeech"]
     },
     {
       "projectId": "chain",
@@ -89,7 +89,7 @@
         "name": "vinbero",
         "profileUrl": "https://github.com/vinbero"
       }],
-      "Repository": ["https://github.com/vinbero"]
+      "Repository": ["https://github.com/vinbero/vinbero"]
     },
     {
       "projectId": "2019-6thD2CF-Image-Cluster",

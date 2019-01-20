@@ -1,7 +1,7 @@
 import moment from 'moment';
 import contributonProjectJson from '../contributon-project.json';
 
-const dateAfter = new Date('2019-01-18T15:00:00Z');
+const dateAfter = new Date('2019-01-17T15:00:00Z');
 
 type TMentor = { name: string; profileUrl: string };
 
@@ -15,7 +15,7 @@ type TProject = {
 
 export async function cacheAllPojectEvents() {
   const projects: TProject[] = contributonProjectJson.project;
-  console.log('projects: ' + JSON.stringify(projects));
+
   for (let i = 0; i < projects.length; i++) {
     const project = projects[i];
     console.log('cacheProjectEvent start : ', project.projectId);
