@@ -1,7 +1,7 @@
 {
   "name": "d2campusfest6th-2019",
   "version": "1.0.0",
-  "description": "",
+  "description": "2019 Naver D2 Campus fest 6th",
   "main": "index.js",
   "scripts": {
     "start": "node server.js",
@@ -14,7 +14,7 @@
     "type": "git",
     "url": "git+https://github.com/rayleighko/d2CampusFest6th-2019.git"
   },
-  "author": "jsdev.kr",
+  "author": "rayleighko",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/rayleighko/d2CampusFest6th-2019/pulls"
