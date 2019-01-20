@@ -2,6 +2,9 @@
 
 > 이 프로젝트는 [제 6회 D2 Campus fest](https://github.com/D2CampusFest/6th)와 [2018 공개SW Contributhon - 실시간 현황 확인 및 행사 진행 페이지](https://github.com/kosslab-kr/kosscontributhon2018)를 참고해 만들었습니다.
 
+## Preview
+
+![preview](assets/images/preview.png)
 
 ## 축하합니다! 제 6회 D2 CAMPUS FEST 결승진출팀 안내
 
