@@ -1,7 +1,7 @@
 import moment from 'moment';
 import contributonProjectJson from '../contributon-project.json';
 
-const dateAfter = new Date('2018-08-15T15:00:00Z');
+const dateAfter = new Date('2019-01-18T15:00:00Z');
 
 type TMentor = { name: string; profileUrl: string };
 
