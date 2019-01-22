@@ -114,7 +114,7 @@ const getEventString = function(event: TEvent) {
       <b className={'projectName'}>{event.repo.name}</b> {moment(event.updatedAt).fromNow()}
     </div>
   );
-
+  console.log(event.type);
   switch (event.type) {
     case 'IssueCommentEvent':
       return (
@@ -146,6 +146,9 @@ const getEventString = function(event: TEvent) {
       break;
 
     case 'IssuesEvent':
+      if (event.payload.issue.body == null) {
+        return;
+      }
       return (
         <>
           <EventHeader />
